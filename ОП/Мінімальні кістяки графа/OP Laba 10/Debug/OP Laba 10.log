@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(64): warning C4101: 'jt': unreferenced local variable
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(63): warning C4101: 'x': unreferenced local variable
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(64): warning C4101: 'it': unreferenced local variable
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\arte0\source\repos\op laba 10\op laba 10\source.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OP Laba 10.vcxproj -> C:\Users\arte0\source\repos\OP Laba 10\Debug\OP Laba 10.exe

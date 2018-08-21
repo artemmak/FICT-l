@@ -1,0 +1,4 @@
+﻿  СортуванняТА.cpp
+c:\users\user\source\repos\сортуваннята\сортуваннята\сортуваннята.cpp(169): warning C4101: p: неиспользованная локальная переменная
+c:\users\user\source\repos\сортуваннята\сортуваннята\сортуваннята.cpp(209): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  СортуванняТА.vcxproj -> C:\Users\user\source\repos\СортуванняТА\Debug\СортуванняТА.exe

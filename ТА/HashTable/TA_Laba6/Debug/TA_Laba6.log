@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\arte0\source\repos\ta_laba6\ta_laba6\source.cpp(98): warning C4244: 'return': conversion from 'long double' to 'int', possible loss of data
+  TA_Laba6.vcxproj -> C:\Users\arte0\source\repos\TA_Laba6\Debug\TA_Laba6.exe

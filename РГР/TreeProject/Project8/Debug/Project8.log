@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\arte0\source\repos\project8\project8\schools.h(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\arte0\source\repos\project8\project8\schools.h(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\arte0\source\repos\project8\project8\schools.h(46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project8.vcxproj -> C:\Users\arte0\source\repos\Project8\Debug\Project8.exe

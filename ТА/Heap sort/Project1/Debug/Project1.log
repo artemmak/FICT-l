@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arte0\source\repos\project1\project1\source.cpp(114): warning C4101: 'temp': unreferenced local variable
+c:\users\arte0\source\repos\project1\project1\source.cpp(130): warning C4101: 'temp': unreferenced local variable
+  Project1.vcxproj -> C:\Users\arte0\source\repos\Project1\Debug\Project1.exe
